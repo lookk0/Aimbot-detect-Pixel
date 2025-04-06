@@ -1,2 +1,5 @@
-# Aimbot-detect-Pixel
-Aimbot | detect pixel by python | used in https://www.youtube.com/shorts/1WQjStLqZbY , https://www.youtube.com/shorts/sNY5j1UY51c
+Run this code in terminal before runing main code: pip install pyautogui
+
+Change your own image path
+
+Used this web to test: https://humanbenchmark.com/tests/aim
